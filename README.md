@@ -1,4 +1,4 @@
-# Solitaire adfree 4ever — website
+# Solitaire for Mom — website
 
 Privacy policy and help page for the free, ad-free Solitaire app for iPad and iPhone.
 
